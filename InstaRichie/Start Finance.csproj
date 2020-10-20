@@ -11,7 +11,7 @@
     <AssemblyName>StartFinance</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
-    <TargetPlatformVersion>10.0.14393.0</TargetPlatformVersion>
+    <TargetPlatformVersion>10.0.18362.0</TargetPlatformVersion>
     <TargetPlatformMinVersion>10.0.10240.0</TargetPlatformMinVersion>
     <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
     <EnableDotNetNativeCompatibleProfile>true</EnableDotNetNativeCompatibleProfile>
@@ -204,7 +204,7 @@
     </Page>
     <Page Include="Views\AppointmentsInfoPage.xaml">
       <SubType>Designer</SubType>
-  <Generator>MSBuild:Compile</Generator>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Views\AssetsPage.xaml">
       <SubType>Designer</SubType>
@@ -216,7 +216,7 @@
     </Page>
     <Page Include="Views\ContactDetailsPage.xaml">
       <SubType>Designer</SubType>
-  <Generator>MSBuild:Compile</Generator>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Views\DashBoardPage.xaml">
       <SubType>Designer</SubType>
